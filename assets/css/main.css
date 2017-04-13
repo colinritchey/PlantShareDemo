@@ -2374,7 +2374,7 @@
 
 			.image.phone .inner, .image.phone:before, .image.phone:after {
 				display: block;
-				border: solid 2px rgba(255, 255, 255, 0.25);
+				/*border: solid 2px rgba(255, 255, 255, 0.25);*/
 			}
 
 			.image.phone .inner {
@@ -2393,7 +2393,7 @@
 					width: 2em;
 					height: 0.25em;
 					border-radius: 0.5em;
-					background: rgba(255, 255, 255, 0.25);
+					/*background: rgba(255, 255, 255, 0.25);*/
 				}
 
 				.image.phone .inner:after {
@@ -2402,7 +2402,7 @@
 					width: 2em;
 					height: 2em;
 					border-radius: 100%;
-					border: solid 2px rgba(255, 255, 255, 0.25);
+					/*border: solid 2px rgba(255, 255, 255, 0.25);*/
 				}
 
 			.image.phone:before, .image.phone:after {
@@ -2422,7 +2422,7 @@
 			}
 
 	.image {
-		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
+		/*box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;*/
 	}
 
 		.image.phone {
@@ -2785,6 +2785,11 @@
 
 		.spotlight .content {
 			width: 70%;
+		}
+
+		.content-bottom{
+			width: 100%;
+			align-items: center;
 		}
 
 		.spotlight .content .next-to-app{
@@ -3768,7 +3773,7 @@
 		}
 
 		#header .image {
-			box-shadow: 0 0 0 4px #4696e5, 0 0 0 5px rgba(255, 255, 255, 0.25);
+			/*box-shadow: 0 0 0 4px #4696e5, 0 0 0 5px rgba(255, 255, 255, 0.25);*/
 		}
 
 			#header .image.phone {
