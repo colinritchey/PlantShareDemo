@@ -2792,6 +2792,10 @@
 			align-items: center;
 		}
 
+		.content-bottom-center{
+			margin-left: 40%
+		}
+
 		.spotlight .content .next-to-app{
 			width: 70%;
 			margin-left: 65px;
